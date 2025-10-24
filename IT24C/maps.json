@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Jollibee",
+        "lat":8.367395,
+        "lng": 124.865340,
+        "description":"My favorite food stops Jollibee"
+    },
+
+    {
+        "name":"7 eleven",
+        "lat":8.367482,
+        "lng":124.865099,
+        "description":"I love drinks"
+    },
+    
+    { 
+        "name":"street foods",
+        "lat":8.365991,
+        "lng":124.864796,
+        "description":"I love street foods"
+    }
+]
